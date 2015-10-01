@@ -9,6 +9,8 @@ namespace DoubleDecimalTest
     {
         static void Main(string[] args)
         {
+            Double hi = 6;
+            decimal bye = 7.7;
         }
     }
 }
